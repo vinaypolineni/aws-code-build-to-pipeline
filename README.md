@@ -14,7 +14,7 @@ Provisioning model - on-demand
 Environment image - managed images
 compute -ec2
  operating system
- - linus system
+ - linux system
  run time
  - standard
  image
