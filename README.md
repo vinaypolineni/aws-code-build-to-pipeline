@@ -1,4 +1,4 @@
-### Java Script demo
+# Java Script demo
 
 ## create a code commit repo and add the files of java script file in to that repo
 
