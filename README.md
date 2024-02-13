@@ -1,4 +1,4 @@
-# Java Script demo
+# Angular Project
 
 ## create a code commit repo and add the files of java script file in to that repo
 
@@ -58,7 +58,7 @@ review all and click ok it will create pipe line
 it will be trriger  automatically 
 
 
-# Java demo
+# Java Project
 
 ## create a code commit repo and add the files of java file in to that repo
 
