@@ -12,8 +12,17 @@ create pipeline to deploy simple caluculater using amazon s3 bucket website host
 ```
 Provisioning model - on-demand
 Environment image - managed images
-compute -ec2 
+compute -ec2
+ operating system
+ - linus system
+ run time
+ - standard
+ image
+below run time link
 ```
+ select using below links
+[runtime details](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html/).
+
 role name will be automatically created when your enter build project name
 
 ## in this build spec is plays imortant role without buildspec file we can't execte this entire file
@@ -40,6 +49,7 @@ step-3
 select build option
 code commit or jenkins
 if code commit means select region with project name
+
 step-4
 you can skip this option
 
